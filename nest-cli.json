@@ -5,7 +5,11 @@
   "compilerOptions": {
     "deleteOutDir": true,
     "plugins": ["@nestjs/swagger/plugin"],
+<<<<<<< HEAD
     "assets": ["mail/templates/**/*"]
 
+=======
+      "assets": ["mail/templates/**/*"]
+>>>>>>> test2
   }
 }
